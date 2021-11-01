@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @bayar7
 - 👀 I’m interested in Cloud Computing and Web Development
-- 🌱 I’m currently learning Python basics
+- 🌱 I’m currently learning Front-End Development, especially React.js 
